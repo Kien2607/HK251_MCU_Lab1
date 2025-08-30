@@ -1,0 +1,6 @@
+../Core/Src/Exercise3.c:15:6:Exercise3	8	static
+../Core/Src/Exercise3.c:63:6:idle	8	static
+../Core/Src/Exercise3.c:74:6:road1_yellow	8	static
+../Core/Src/Exercise3.c:85:6:road1_green	8	static
+../Core/Src/Exercise3.c:96:6:road2_yellow	8	static
+../Core/Src/Exercise3.c:106:6:road2_green	8	static
